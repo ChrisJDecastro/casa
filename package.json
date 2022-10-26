@@ -2,7 +2,7 @@
   "name": "casa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chrisjdecastro.github.io/casa",
+  "homepage": "https://chrisjdecastro.github.io",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
